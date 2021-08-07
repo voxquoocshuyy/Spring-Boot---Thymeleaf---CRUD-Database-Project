@@ -15,7 +15,7 @@ HTML
 Java JDK15 <br>
 Bootstrap 4 <br>
 Spring boot <br>
-Thymeleaf
+Thymeleaf <br>
 Rest API
 
 
